@@ -1,0 +1,35 @@
+{
+  "TaxTable": 
+  [
+    {
+      "BottomIncome": 1,
+      "CeilingIncome": 18200,
+      "BaseTax": 0,
+      "UnitTax": 0,
+    },
+    {
+      "BottomIncome": 18201,
+      "CeilingIncome": 37000,
+      "BaseTax": 0,
+      "UnitTax": 0.19
+    },
+    {
+      "BottomIncome": 37001,
+      "CeilingIncome": 87000,
+      "BaseTax": 3572,
+      "UnitTax": 0.325
+    },
+    {
+      "BottomIncome": 87001,
+      "CeilingIncome": 180000,
+      "BaseTax": 19822,
+      "UnitTax": 0.37
+    },
+    {
+      "BottomIncome": 180001,
+      "CeilingIncome": "",
+      "BaseTax": 54232,
+      "UnitTax": 0.45
+    }
+  ]
+}
